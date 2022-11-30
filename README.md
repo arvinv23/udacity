@@ -4,7 +4,7 @@
 This analysis dives into finding which neighborhood in Chicago will be the best to rent from in Chicago.
 It will use data from 2017-2019, which I will estimate will be similar to what 2023 will look like after the Covid lull.
 
- - [Find Which Way the Wind Will Take Me](https://medium.com/@arvinveerappan_71167/finding-which-way-the-wind-will-take-me-b5833e5242ef)
+ - [Find Which Way the Wind Will Take Me](https://medium.com/@arvinveerappan_71167/finding-which-way-the-wind-will-take-me-b5833e5242ef?source=friends_link&sk=a7c6602a92febdedf415f4c6576be440)
 
 
 ## Acknowledgements
